@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+03/26/2017
 
 ### Student Name:  
-(First and Last Name)
+Anna Rissinger
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a website that dispalys a recipe by using jQuery methods. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alf08f.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to manipulate the DOM in Chrome browser to see changes in a webpage, as welll as sources.
+2. JQuery is a library for JavaScript, and removed some of the tedious work coding with JavaScript has.
+3. How to add things such as animations and effects to a webpage with jQuery. 
